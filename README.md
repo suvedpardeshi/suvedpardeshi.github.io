@@ -1,6 +1,6 @@
 <p>Hello World</p> <br>
-<p>I am Suved Pardeshi,</p> <br>
-<p>Advertising and Marketing</p> <br>
-<p>uilding Socialkosh</p> <br>
-<p>Help startups with growth strategies </p> <br>
-<p>YPIT Pune 🎓</p> <br>
+<p>I am Suved Pardeshi,<br>
+<p>Advertising and Marketing <br>
+<p>Building Socialkosh</p> <br>
+<p>Help startups with growth strategies <br>
+<p>DYPIT Pune 🎓 <br>
